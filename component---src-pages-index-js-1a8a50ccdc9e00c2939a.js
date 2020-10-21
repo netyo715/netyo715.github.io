@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{RXBc:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),r=n("Wbzz"),c=n("Bl7J"),o=(n("tBDR"),n("vrFN"));t.default=function(){return l.a.createElement(c.a,null,l.a.createElement(o.a,{title:"Home"}),l.a.createElement("h1",null,"NETYO715のサイト"),l.a.createElement(r.Link,{to:"/profile/"},"プロフィール"),l.a.createElement("br",null),l.a.createElement(r.Link,{to:"/tft-comp-memo/"},"TFTの構成をメモするツール（開発中）"),l.a.createElement("br",null))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-1a8a50ccdc9e00c2939a.js.map
